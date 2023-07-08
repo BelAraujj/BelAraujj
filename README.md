@@ -1,6 +1,6 @@
 ## Olá!!!
 
-- 👩‍💻 A procura de estágio Front End. 
+- 👩‍💻 À procura de estágio Front End. 
 - 📖 Análise e Desenvolvimento de Sistemas - FIAP  
 
 ##
